@@ -1,0 +1,119 @@
+*{
+  box-sizing: border-box;
+}
+
+.nav {
+    margin-top: 0px;
+}
+
+#header-nav {
+	background-color: gray;
+	border: 2px solid black;
+	border-radius: 0;
+}
+
+
+#navtitle {
+	color: black;
+	font-weight: bold;
+	font-size: 2.3em;
+	text-align: center;
+	font-family: monospace;
+	margin-top: 0px;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 2px solid black;
+}
+
+
+#collapsable-nav{
+  margin-top: 10px;
+  border: 0px;
+  background-color: #C0C0C0;
+}
+
+
+#nav-list a {
+	text-align: center;
+	color: black;
+	font-size: 1.5em;
+
+}
+
+#nav-list a:hover {
+	background: gray;
+	color: white;
+}
+
+.row a {
+ font-family: monospace;
+ color: white;
+ font-size: 0.6em;
+}
+
+h1{
+	color: black;
+	font-size: 50px;
+	margin: 60px;
+	text-align: center;
+	font-family: monospace;
+	font-weight: bold;
+}
+
+p {
+	font-family: serif;
+	color: black;
+	font-size: 1.2em;
+	background-color: gray;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	margin-top: ;
+	height: 1000px;
+}
+
+
+
+
+.row {
+	margin-bottom: 15px;
+}
+.row > div {
+	
+}
+
+#container {
+	position: relative;
+	float: left;
+}
+
+#Chicken {
+	width: 100%;
+	font-family: monospace;
+	font-size: 2em;
+	color: black;
+	text-align: center;
+	font-weight: bold;
+	float: left;
+}
+
+#Beef {
+	width: 100%;
+	font-family: monospace;
+	font-size: 2em;
+	color: black;
+	text-align: center;
+	font-weight: bold;
+	float: left;
+}
+
+#Sushi {
+	width: 100%;
+	font-family: monospace;
+	font-size: 2em;
+	color: black;
+	text-align: center;
+	font-weight: bold;
+	float: left;
+}
